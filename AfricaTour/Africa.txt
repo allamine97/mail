@@ -1,0 +1,29 @@
+Application guide touristique
+
+-photo ,lieu,description
+
+-culturel ...
+
+
+structure des données 
+
+scrapping collecte de donnée
+
+création d'API python
+
+-
+
+-Scrapping
+
+-web page statique
+
+-data reprise 
+
+
+arrangé le code
+
+importer vers une base mysql
+
+
+-Scrapping sur de nouvelles sources de données
+-Insertion
